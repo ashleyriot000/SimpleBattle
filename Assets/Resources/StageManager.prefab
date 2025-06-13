@@ -614,7 +614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49023869f3c797349bba3ce59640219c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  panel: {fileID: 4307758978005693434}
+  clearPanel: {fileID: 4307758978005693434}
   remainText: {fileID: 4528277249456550679}
   targetList: []
   SceneName: Stage1
